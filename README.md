@@ -3,5 +3,5 @@ i3wm rc pertamaku
 
 hasil belajar edit config i3wm dan conky saja, masih sederhana :)) 
 
-walpaper  = manjaro-chan \n
+walpaper  = manjaro-chan
 zsh thema = powerlevel10k
